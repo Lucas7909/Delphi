@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\san_l\Documents\2024_ISFP191\2024_7_Introducción a la Programación\Tema 5_Programacion Modular\Tp_Vectores\ej3_vectores\lib\x86_64-win64&quot; -FuC:\Users\san_l\Desktop\LOVectores &quot;-FuC:\Users\san_l\Documents\2024_ISFP191\2024_7_Introducción a la Programación\Tema 5_Programacion Modular\Tp_Vectores\ej3_vectores\&quot; &quot;-FUC:\Users\san_l\Documents\2024_ISFP191\2024_7_Introducción a la Programación\Tema 5_Programacion Modular\Tp_Vectores\ej3_vectores\lib\x86_64-win64\&quot; &quot;-FEC:\Users\san_l\Documents\2024_ISFP191\2024_7_Introducción a la Programación\Tema 5_Programacion Modular\Tp_Vectores\ej3_vectores\&quot; &quot;-oC:\Users\san_l\Documents\2024_ISFP191\2024_7_Introducción a la Programación\Tema 5_Programacion Modular\Tp_Vectores\ej3_vectores\ej3_vectores.exe&quot; ej3_vectores.lpr"/>
+</CONFIG>
